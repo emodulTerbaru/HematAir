@@ -87,7 +87,7 @@ def bacaan():
 </body>
 </html>
     '''
-    st.components.v1.html(tulisan_html1,width=1100,height=750)
+    st.components.v1.html(tulisan_html1,width=1300,height=750)
 
 def bacaan1():
     st.image("https://res.cloudinary.com/ikip-siliwangi/image/upload/v1732177110/hemat_air_y8ccmz.png")
