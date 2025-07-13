@@ -258,10 +258,10 @@ def latihan_soal():
             <li class="pertanyaan"><b>Artikan kata-kata/kelompok kata berikutnya</b>
                 <ol type="a">
                     <li class="pertanyaan1">Kudapan (bariske-2) = <input class="pertanyaan3" type="text"> </li>
-                    <li class="pertanyaan1">Mengguyurkan (baris ke-6) = <input class="pertanyaan3" type="text"> </li>
-                    <li class="pertanyaan1">Bergegas (baris ke-8) = <input class="pertanyaan3" type="text"> </li>
-                    <li class="pertanyaan1">Limpahan (baris ke-13) = <input class="pertanyaan3" type="text"> </li>
-                    <li class="pertanyaan1">Siklus (Baris ke-15) = <input class="pertanyaan3" type="text"></li>
+                    <li class="pertanyaan1">Mengguyurkan (baris ke-4) = <input class="pertanyaan3" type="text"> </li>
+                    <li class="pertanyaan1">Bergegas (baris ke-6) = <input class="pertanyaan3" type="text"> </li>
+                    <li class="pertanyaan1">Limpahan (baris ke-10) = <input class="pertanyaan3" type="text"> </li>
+                    <li class="pertanyaan1">Siklus (Baris ke-11) = <input class="pertanyaan3" type="text"></li>
                 </ol>
             </li>
             <li class="pertanyaan"><b>Jawablah pertenyaan di bahwah ini</b>
